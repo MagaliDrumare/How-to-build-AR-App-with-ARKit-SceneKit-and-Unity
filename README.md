@@ -1,10 +1,10 @@
-# What is AR Kit?
+# What is ARKit 
 * AR Kit a new framework to create Augmented Reality experiences for Iphone and Ipad
 * To read "Introducing AR Kit" : https://developer.apple.com/arkit/
 * To watch "Introducing ARKit (Augmented Reality for iOS) : https://developer.apple.com/videos/play/wwdc2017/602/
 
 
-# Build AR Kit App with XCode using SceneKit (Swift)
+# Build ARKit App with XCode using SceneKit (Swift)
 * SceneKit, What's New ? : http://apple.co/2zhEe13
 * Solar System App Tutorial: http://bit.ly/2hQJMsz  
 * Solar System App Code : https://www.dropbox.com/s/vcudndoq09x7w40/SolarSystem.zip?dl=0
@@ -16,7 +16,7 @@
 * TV Screen App Code : https://www.dropbox.com/s/a0nrseq4po37xgx/EcranTV.zip?dl=0
 
 
-# Build AR Kit App using Unity3D (C#)
+# Build ARKit App using Unity3D (C#)
 * Get Ready to Launch Your ARKit App on iOS11: http://bit.ly/2xwLDMK
 * Unity AR Kit Pluggin : https://www.assetstore.unity3d.com/en/#!/content/92515
 * Dragon Tutorial : https://goo.gl/UD83aE
